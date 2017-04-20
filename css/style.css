@@ -4,3 +4,12 @@ body {
   background-position: center;
   background-size: cover;
 }
+
+.bg-danger {
+  background-color: red;
+  opacity: 0.5;
+}
+
+p, h3, h2, h1, h4 {
+  color: white;
+}
